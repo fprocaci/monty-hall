@@ -11,6 +11,7 @@
 .estrutura{
     display: flex;
     flex-grow: 1;
+    background-color: #0005;
     border-left: 5px solid brown;
     border-top: 5px solid brown;
     border-right: 5px solid brown;
